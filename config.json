@@ -1,0 +1,21 @@
+{
+  "params" :
+  {
+    "local_server": "True",
+    "local_url": "mysql://root:@localhost/thecodingthunder",
+    "prod_url": "mysql://root:@localhost/thecodingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://instagram.com/codingthunder",
+    "blog_name": "progrmming project",
+    "tag_line": "A Blog liked by Programmers",
+    "gmail-user": "email@gmail.com",
+    "gmail-password": "password",
+    "no_of_post": 3,
+    "admin_user": "ved",
+    "admin-password": "12345",
+    "upload_location": "C:\\Users\\WIN 7\\Desktop\\harry youtube video\\New folder (3)\\flask site\\static"
+  }
+
+
+}
